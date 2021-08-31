@@ -1,3 +1,33 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@SirHayk
+SirHayk /
+slide
+
+1
+0
+
+    0
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+slide/assets/css/main.css
+ 
+ 
+3717 lines (3058 sloc) 81.4 KB
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300i,400i");
 
@@ -2314,7 +2344,7 @@ input, select, textarea {
 				}
 
 		.panel > .inner {
-			padding: 3.5rem 3.5rem 2rem 3.5rem ;
+			padding: 1.5rem 3.5rem 2rem 3.5rem ;
 			display: -moz-flex;
 			display: -webkit-flex;
 			display: -ms-flex;
@@ -2448,39 +2478,39 @@ input, select, textarea {
 		}
 
 		.panel .span-2-75 {
-			width: 27.5rem;
+			width: 5rem;
 		}
 
 		.panel .span-3 {
-			width: 30rem;
+			width: 5rem;
 		}
 
 		.panel .span-3-25 {
-			width: 32.5rem;
-		}
-
-		.panel .span-3-5 {
 			width: 35rem;
 		}
 
+		.panel .span-3-5 {
+			width: 5rem;
+		}
+
 		.panel .span-3-75 {
-			width: 37.5rem;
+			width: 5rem;
 		}
 
 		.panel .span-4 {
-			width: 40rem;
+			width: 5rem;
 		}
 
 		.panel .span-4-25 {
-			width: 42.5rem;
+			width: 5rem;
 		}
 
 		.panel .span-4-5 {
-			width: 45rem;
+			width: 5rem;
 		}
 
 		.panel .span-4-75 {
-			width: 47.5rem;
+			width: 5rem;
 		}
 
 		.panel .span-5 {
@@ -3715,3 +3745,19 @@ input, select, textarea {
 			}
 
 	}
+
+    © 2021 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+Loading complete
